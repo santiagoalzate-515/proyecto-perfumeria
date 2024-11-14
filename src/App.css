@@ -1,0 +1,18 @@
+:root {
+  --rojo: #D01C2A;
+  --beige: #F1E6D6; 
+  --verde: #4C9C3E;
+  --negro: #1A1A1A;
+  --oro: #B18D65;
+}
+
+body {
+  background-color: var(--beige); 
+  font-family: Arial, sans-serif;
+  color: var(--negro); 
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}  
+
+
