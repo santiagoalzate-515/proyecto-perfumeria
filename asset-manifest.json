@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/proyecto-perfumeria/static/css/main.dd8561f9.css",
-    "main.js": "/proyecto-perfumeria/static/js/main.9620e3d8.js",
+    "main.js": "/proyecto-perfumeria/static/js/main.d3879e4b.js",
     "static/js/453.d6579b24.chunk.js": "/proyecto-perfumeria/static/js/453.d6579b24.chunk.js",
     "static/media/slick.svg": "/proyecto-perfumeria/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/proyecto-perfumeria/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -9,11 +9,11 @@
     "static/media/slick.woff": "/proyecto-perfumeria/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/proyecto-perfumeria/index.html",
     "main.dd8561f9.css.map": "/proyecto-perfumeria/static/css/main.dd8561f9.css.map",
-    "main.9620e3d8.js.map": "/proyecto-perfumeria/static/js/main.9620e3d8.js.map",
+    "main.d3879e4b.js.map": "/proyecto-perfumeria/static/js/main.d3879e4b.js.map",
     "453.d6579b24.chunk.js.map": "/proyecto-perfumeria/static/js/453.d6579b24.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd8561f9.css",
-    "static/js/main.9620e3d8.js"
+    "static/js/main.d3879e4b.js"
   ]
 }
