@@ -209,7 +209,7 @@ function ContextProvider({ children }) {
         occasion: 'Elegante / Noche',
         volume: '100 ml',
         price: '$160.000'
-      }
+      },
 // --------------------------------
 
       {
