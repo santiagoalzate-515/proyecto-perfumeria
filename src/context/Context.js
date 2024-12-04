@@ -210,6 +210,203 @@ function ContextProvider({ children }) {
         volume: '100 ml',
         price: '$160.000'
       }
+// --------------------------------
+
+      {
+        src: './25perfume.png',
+        alt: 'Perfume 1',
+        family: 'CHLOÉ',
+        occasion: 'Día a día',
+        volume: '50 ml',
+        price: '$180.000'
+      },
+      {
+        src: './26perfume.png',
+        alt: 'Perfume 2',
+        family: 'Tacon Dorado',
+        occasion: 'Noches especiales',
+        volume: '75 ml',
+        price: '$160.000'
+      },
+      {
+        src: './27perfume.png',
+        alt: 'Perfume 3',
+        family: 'Vida Bella Intense',
+        occasion: 'Verano / Casual',
+        volume: '100 ml',
+        price: '$160.000'
+      },
+      {
+        src: './28perfume.png',
+        alt: 'Perfume 4',
+        family: 'CH Beasts Man Verde',
+        occasion: 'Eventos formales',
+        volume: '100 ml',
+        price: '$160.000'
+      },
+      {
+        src: './29perfume.png',
+        alt: 'Perfume 5',
+        family: 'CH Edition Limited Dama Amarilla',
+        occasion: 'Todo el día',
+        volume: '50 ml',
+        price: '$160.000'
+      },
+      {
+        src: './30perfume.png',
+        alt: 'Perfume 6',
+        family: 'LA Nuit homme',
+        occasion: 'Noche / Especial',
+        volume: '75 ml',
+        price: '$170.000'
+      },
+      {
+        src: './31perfume.png',
+        alt: 'Perfume 7',
+        family: 'Blue Chanel Perfume Man',
+        occasion: 'Elegante / Noche',
+        volume: '100 ml',
+        price: '$160.000'
+      },
+      {
+        src: './32perfume.png',
+        alt: 'Perfume 8',
+        family: 'CH Kings Man',
+        occasion: 'Primavera / Casual',
+        volume: '50 ml',
+        price: '$160.000'
+      },{
+        src: './33perfume.png',
+        alt: 'Perfume 1',
+        family: 'Phantom Legion',
+        occasion: 'Día a día',
+        volume: '50 ml',
+        price: '$160.000'
+      },
+
+
+      {
+        src: './34perfume.png',
+        alt: 'Perfume 2',
+        family: 'Marly Delina Dama',
+        occasion: 'Noches especiales',
+        volume: '75 ml',
+        price: '$320.000'
+      },
+      {
+        src: './35perfume.png',
+        alt: 'Perfume 3',
+        family: 'My Burberry Rosada ',
+        occasion: 'Verano / Casual',
+        volume: '100 ml',
+        price: '$160.000'
+      },
+      {
+        src: './36perfume.png',
+        alt: 'Perfume 4',
+        family: 'Creed Aventus Cologne Roja',
+        occasion: 'Eventos formales',
+        volume: '100 ml',
+        price: '$200.000'
+      },
+      {
+        src: './37perfume.png',
+        alt: 'Perfume 5',
+        family: 'Bad Boy Plateadl',
+        occasion: 'Todo el día',
+        volume: '50 ml',
+        price: '$180.000'
+      },
+      {
+        src: './38perfume.png',
+        alt: 'Perfume 6',
+        family: 'Fresh Rosada',
+        occasion: 'Noche / Especial',
+        volume: '75 ml',
+        price: '$200.000'
+      },
+      {
+        src: './39perfume.png',
+        alt: 'Perfume 7',
+        family: 'Blue Seduction',
+        occasion: 'Elegante / Noche',
+        volume: '100 ml',
+        price: '$160.000'
+      },
+      {
+        src: './40perfume.png',
+        alt: 'Perfume 1',
+        family: 'Eros Flame',
+        occasion: 'Día a día',
+        volume: '50 ml',
+        price: '$200.000'
+      },
+      {
+        src: './41perfume.png',
+        alt: 'Perfume 2',
+        family: 'Bond New York',
+        occasion: 'Noches especiales',
+        volume: '75 ml',
+        price: '$200.000'
+      },
+      {
+        src: './42perfume.png',
+        alt: 'Perfume 3',
+        family: 'Jadore ',
+        occasion: 'Verano / Casual',
+        volume: '100 ml',
+        price: '$160.000'
+      },
+      {
+        src: './43perfume.png',
+        alt: 'Perfume 4',
+        family: 'Gio Profondo',
+        occasion: 'Eventos formales',
+        volume: '100 ml',
+        price: '$200.000'
+      },
+      {
+        src: './44perfume.png',
+        alt: 'Perfume 5',
+        family: 'Phantom Plateada',
+        occasion: 'Todo el día',
+        volume: '50 ml',
+        price: '$160.000'
+      },
+      {
+        src: './45perfume.png',
+        alt: 'Perfume 6',
+        family: 'Givenchy Blue',
+        occasion: 'Noche / Especial',
+        volume: '75 ml',
+        price: '$160.000'
+      },
+      {
+        src: './46perfume.png',
+        alt: 'Perfume 7',
+        family: 'Mancera Cedrat Boise Unisex ',
+        occasion: 'Elegante / Noche',
+        volume: '100 ml',
+        price: '$160.000'
+      },
+      {
+        src: './47perfume.png',
+        alt: 'Perfume 8',
+        family: 'Wins Dama',
+        occasion: 'Primavera / Casual',
+        volume: '50 ml',
+        price: '$120.000'
+      },{
+        src: './48perfume.png',
+        alt: 'Perfume 1',
+        family: 'Pure Xs Dama ',
+        occasion: 'Día a día',
+        volume: '50 ml',
+        price: '$160.000'
+      }
+
+
+      
     ];
 
     const [modalVisible, setModalVisible] = useState(false);
