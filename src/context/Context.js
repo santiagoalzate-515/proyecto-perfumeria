@@ -17,84 +17,198 @@ function ContextProvider({ children }) {
 
     const productos = [
       {
-        src: './undefined_image_1.png',
+        src: './tacon170.png',
         alt: 'Perfume 1',
-        description: 'Un perfume floral fresco con toques de cítricos y jazmín, ideal para un día de primavera. Notas de salida: mandarina y limón; notas de corazón: jazmín y peonía; notas de fondo: sándalo y almizcle. Perfecto para el uso diario o ocasiones relajadas.',
-        family: 'Floral',
+        family: 'Tacon Blush',
         occasion: 'Día a día',
         volume: '50 ml',
-        price: '$40.00'
+        price: '$170.000'
       },
       {
-        src: './undefined_image_2.png',
+        src: './badboy180.png',
         alt: 'Perfume 2',
-        description: 'Este perfume cálido y envolvente destaca por sus notas amaderadas y especiadas, creando una fragancia sofisticada. Notas de salida: cardamomo y pimienta rosa; notas de corazón: rosa de Bulgaria y jazmín; notas de fondo: madera de oud y ámbar.',
-        family: 'Amaderado',
+        family: 'Bad Boy CH',
         occasion: 'Noches especiales',
         volume: '75 ml',
-        price: '$65.00'
+        price: '$180.000'
       },
       {
-        src: './undefined_image_3.png',
+        src: './loewe180.png',
         alt: 'Perfume 3',
-        description: 'Una fragancia fresca y ligera que recuerda a una brisa marina. Perfecto para el verano, con notas de salida de menta y bergamota, un corazón de lavanda y notas de fondo de musgo y almizcle. Ideal para cualquier momento del día y cualquier ocasión.',
-        family: 'Acuático',
+        family: 'Loewe Mujer',
         occasion: 'Verano / Casual',
         volume: '100 ml',
-        price: '$50.00'
+        price: '$180.000'
       },
       {
-        src: './undefined_image_5.png',
+        src: './bulberry180.png',
         alt: 'Perfume 4',
-        description: 'Perfume sofisticado con un toque amaderado y ligeramente especiado. Notas de salida: bergamota y lavanda; notas de corazón: rosa y especias; notas de fondo: cedro y almizcle. Una fragancia perfecta para eventos formales y ocasiones elegantes.',
-        family: ' Floral',
+        family: 'Burberry Hero',
         occasion: 'Eventos formales',
         volume: '100 ml',
-        price: '$80.00'
+        price: '$180.000'
       },
       {
-        src: './undefined_image_6.png',
+        src: './bvlgari170.png',
         alt: 'Perfume 5',
-        description: 'Con una mezcla vibrante de frutas y flores, este perfume tiene notas de salida de pera y manzana verde, con un corazón de flor de azahar y un fondo de almizcle blanco. Perfecto para quienes buscan frescura y dulzura en un solo perfume.',
-        family: 'Frutal',
+        family: 'bvlgari man extreme',
         occasion: 'Todo el día',
         volume: '50 ml',
-        price: '$45.00'
+        price: '$160.000'
       },
       {
-        src: './undefined_image_7.png',
+        src: './forglory100.png',
         alt: 'Perfume 6',
-        description: 'Una fragancia intensamente dulce y cálida, con notas de salida de caramelo y vainilla, un corazón floral de rosa y un fondo de madera de sándalo y ámbar. Ideal para ocasiones especiales o como fragancia personal.',
-        family: 'Oriental',
+        family: 'aerosol for glory lattafa',
         occasion: 'Noche / Especial',
         volume: '75 ml',
-        price: '$70.00'
+        price: '$100.000'
       },
       {
-        src: './undefined_image_8.png',
+        src: './bvlagryamethiste160.png',
         alt: 'Perfume 7',
-        description: 'Perfume elegante con una mezcla de especias exóticas, bergamota y un toque de flor de loto. Notas de salida: cardamomo y jengibre, notas de corazón: flor de loto y jazmín, notas de fondo: sándalo y cuero. Perfecto para la mujer moderna y sofisticada.',
-        family: 'Especiado',
+        family: 'bvlgari amethyste',
         occasion: 'Elegante / Noche',
         volume: '100 ml',
-        price: '$85.00'
+        price: '$160.000'
       },
       {
-        src: './undefined_image_9.png',
+        src: './lavidaesbella170.png',
         alt: 'Perfume 8',
-        description: 'Un perfume fresco con una mezcla de notas cítricas y florales, ideal para el uso diario en primavera o verano. Notas de salida: limón y pomelo, notas de corazón: jazmín y flor de naranjo, notas de fondo: almizcle y cedro. Aporta frescura y vitalidad.',
-        family: 'Cítrico',
+        family: 'vida es bella perfume oui (NUEVA)',
         occasion: 'Primavera / Casual',
         volume: '50 ml',
-        price: '$42.00'
+        price: '$160.000'
       },{
-        src: './undefined_image_10.png',
+        src: './italian140.png',
         alt: 'Perfume 1',
-        description: 'Un perfume floral fresco con toques de cítricos y jazmín, ideal para un día de primavera. Notas de salida: mandarina y limón; notas de corazón: jazmín y peonía; notas de fondo: sándalo y almizcle. Perfecto para el uso diario o ocasiones relajadas.',
-        family: 'Floral',
+        family: 'italian zest man (NUEVA)',
         occasion: 'Día a día',
         volume: '50 ml',
-        price: '$40.00'
+        price: '$140.000'
+      },
+
+
+      {
+        src: './10perfume140.png',
+        alt: 'Perfume 1',
+        family: 'light blue love man (NUEVA)',
+        occasion: 'Día a día',
+        volume: '50 ml',
+        price: '$170.000'
+      },
+      {
+        src: './11perfume170.png',
+        alt: 'Perfume 2',
+        family: 'Lacouste Rouge Men Mate',
+        occasion: 'Noches especiales',
+        volume: '75 ml',
+        price: '$170.000'
+      },
+      {
+        src: './12perfume160.png',
+        alt: 'Perfume 3',
+        family: 'bvlgari glacial men',
+        occasion: 'Verano / Casual',
+        volume: '100 ml',
+        price: '$160.000'
+      },
+      {
+        src: './13perfume160.png',
+        alt: 'Perfume 4',
+        family: 'Rose Extra 212 VIP',
+        occasion: 'Eventos formales',
+        volume: '100 ml',
+        price: '$160.000'
+      },
+      {
+        src: './14perfume160.png',
+        alt: 'Perfume 5',
+        family: 'Tacon Very Rosado',
+        occasion: 'Todo el día',
+        volume: '50 ml',
+        price: '$160.000'
+      },
+      {
+        src: './15perfume300.png',
+        alt: 'Perfume 6',
+        family: 'Penhaligons MEN',
+        occasion: 'Noche / Especial',
+        volume: '75 ml',
+        price: '$300.000'
+      },
+      {
+        src: './16perfume240.png',
+        alt: 'Perfume 7',
+        family: 'Replica Maison Martin ',
+        occasion: 'Elegante / Noche',
+        volume: '100 ml',
+        price: '$240.000'
+      },
+      {
+        src: './17perfume180.png',
+        alt: 'Perfume 8',
+        family: 'Burberry Her',
+        occasion: 'Primavera / Casual',
+        volume: '50 ml',
+        price: '$180.000'
+      },{
+        src: './18perfume300.png',
+        alt: 'Perfume 1',
+        family: 'Sauvage Elixir Dior',
+        occasion: 'Día a día',
+        volume: '50 ml',
+        price: '$300.000'
+      },
+
+
+      {
+        src: './19perfume.png',
+        alt: 'Perfume 2',
+        family: 'Mancera Red Tobacco',
+        occasion: 'Noches especiales',
+        volume: '75 ml',
+        price: '$300.000'
+      },
+      {
+        src: './20perfume.png',
+        alt: 'Perfume 3',
+        family: 'Happy clinique Dama ',
+        occasion: 'Verano / Casual',
+        volume: '100 ml',
+        price: '$140.000'
+      },
+      {
+        src: './21perfume.png',
+        alt: 'Perfume 4',
+        family: 'Cartier Essence',
+        occasion: 'Eventos formales',
+        volume: '100 ml',
+        price: '$140.000'
+      },
+      {
+        src: './22perfume.png',
+        alt: 'Perfume 5',
+        family: 'Legend Red',
+        occasion: 'Todo el día',
+        volume: '50 ml',
+        price: '$160.000'
+      },
+      {
+        src: './23perfume.png',
+        alt: 'Perfume 6',
+        family: 'Davidoff Intense',
+        occasion: 'Noche / Especial',
+        volume: '75 ml',
+        price: '$140.000'
+      },
+      {
+        src: './24perfume.png',
+        alt: 'Perfume 7',
+        family: 'Nautica Vollage',
+        occasion: 'Elegante / Noche',
+        volume: '100 ml',
+        price: '$160.000'
       }
     ];
 

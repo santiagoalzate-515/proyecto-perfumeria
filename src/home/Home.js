@@ -10,7 +10,7 @@ function Home() {
   return (
     <section id="home" className="home-section">
       <div className="content">
-        <h1>Bienvenidos a Old Trafford Perfume</h1>
+        <h1>Bienvenidos a Maison Trafford Parfum</h1>
         <p>Descubre una fragancia única que te hará sentir fresco y elegante.</p>
         <a href="#products">
         

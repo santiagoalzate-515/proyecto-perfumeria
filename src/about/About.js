@@ -3,7 +3,7 @@ import "./About.css"
 function About() {
   return (
     <section id="about" className="sobre-nosotros">
-      <h2>Sobre Old Trafford Perfume</h2>
+      <h2>Sobre Maison Trafford Parfum</h2>
       
       <p className='description'>
         Fundada en el corazón de la ciudad, <strong>Old Trafford Perfume</strong> nace con el objetivo de ofrecer fragancias únicas y de alta calidad que evocan elegancia, frescura y estilo. Nuestra pasión por las esencias y la excelencia nos ha llevado a crear productos que capturan la esencia misma de la sofisticación.<br /><br />

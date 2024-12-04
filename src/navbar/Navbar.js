@@ -8,7 +8,7 @@ function Navbar() {
   return (
     <nav className="navbar">
       <div className="navbar-logo">
-      <img className="navbar-logo-img"src='./logo.oldtrafford.png' alt="Description of image" />;
+      <img className="navbar-logo-img"src='./Designer.png' alt="Description of image" />;
       </div>
       <div className="navbar-links">
         

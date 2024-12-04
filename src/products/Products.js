@@ -57,7 +57,7 @@ function Products() {
               <img src={selectedProduct.src} alt={selectedProduct.alt} className="modal-image" />
               <div className="container-details-2">
                 <p><strong>Familia:</strong> {selectedProduct.family}</p>
-                <p className="description"><strong>Descripción:</strong> {selectedProduct.description}</p>
+                {/* <p className="description"><strong>Descripción:</strong> {selectedProduct.description}</p> */}
                 <p><strong>Precio:</strong> {selectedProduct.price}</p>
               </div>
             </div>
